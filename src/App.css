@@ -1,0 +1,17 @@
+*{
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+label {
+  margin-top: 0px;
+}
+.heading {
+  margin: 10px;
+}
+.parag{
+  margin: 10px;
+  font-size: small;
+}
